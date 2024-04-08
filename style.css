@@ -60,8 +60,9 @@
 p{
     text-align: center;
     font-weight: bold;
-    color: deepskyblue;
-    border: 2px solid deepskyblue;
+    color: #fff;
+    background-color: #5995DA;
+    border: 2px solid #5995DA;
     margin: 0px 5px;
     padding: 0px 5px;
 }
