@@ -1,0 +1,33 @@
+*{
+    background-color: pink;
+
+}
+.body{
+    padding: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+    background: rgb(173, 74, 90);
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.body h1{
+    width: auto;
+    background: white;
+    margin: 20px auto;
+    padding: 25px;
+    color: black;
+    text-align: center;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    
+}
+p{
+    border: solid white 10px;
+    display: grid;
+    margin:  10px auto;
+    padding: 25px;
+    text-align: center;
+    width: 500px;
+    border-radius: 25px;
+    
+    
+}
